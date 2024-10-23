@@ -1,0 +1,94 @@
+[
+    {
+        "topTitle": "Motif de l'absence",
+        "members" : [
+            {
+                "id": "code01",
+                "name": "Code 01", 
+                "title": "Retard absence non autorisé",
+                "options": [
+                    { "op_id": "01_01", "op_label": "Retard" }      
+                ]
+            },
+            {
+                "id": "code04",
+                "name": "Code 04",
+                "title": "Grève AFPA",
+                "options": [
+                    { "op_id" : "04_01", "op_label": "Grève AFPA" }          
+                ]
+            },
+            {
+                "id": "code05",
+                "name": "Code 05",
+                "title": "Maladie",
+                "options": [
+                    { "op_id": "05_01", "op_label": "Maladie" }      
+                ]
+            },
+            {
+                "id": "code06",
+                "name": "Code 06",
+                "title": "Absence Légale",
+                "options": [
+                    { "op_id": "06_01", "op_label" : "Maissane ou adoption (3  jours)" },
+                    { "op_id" : "06_02", "op_label" : "Mariage (4 jours)" },
+                    { "op_id" : "06_03", "op_label" : "Mariage d’un enfant (1 jour)" },
+                    { "op_id" : "06_04", "op_label" : "Décès du conjoint ou du partenaire lié par un pactecivil de solidarité ou d’un enfant (2 jours)" },
+                    { "op_id" : "06_05", "op_label" : "décès du père, de la mère, du beau-père, de la belle-mère, d'un frère ou d'une sœur (1 jour)" },
+                    { "op_id" : "06_06", "op_label" : "Visite médicale obligatoire de la grossesse" },
+                    { "op_id" : "06_07", "op_label" : "Stagiaire élu membre du CA d’une caisse de sécurité sociale sociale" }
+                ]
+            },
+            {
+                "id": "code20_41",
+                "name": "Code 20 – 21 – 30 – 31 - 40 - 41", 
+                "title": "Accident",
+                "options": [
+                    { "op_id" : "20_01", "op_label" : "Accident travail sans arrêt" },
+                    { "op_id" : "20_02", "op_label" : "Accident travail avec arrêt" },
+                    { "op_id" : "20_03", "op_label" : "Accident trajet sans arrêt" },
+                    { "op_id" : "20_04", "op_label" : "Accident trajet avec arrêt" },
+                    { "op_id" : "20_05", "op_label" : "Accident travail hors Afpa sans arrêt" },
+                    { "op_id" : "20_06", "op_label" : "Accident travail hors Afpa avec arrêt" }
+                ]
+            },
+            {
+                "id": "code98",
+                "name": "Code 98",
+                "title": "Absence autorisée non rémunérée",
+                "options": [ 
+                    { "op_id" : "98_01", "op_label" : "Recherche PE" },
+                    { "op_id" : "98_02", "op_label" : "Recherche d’un emploi" },
+                    { "op_id" : "98_03", "op_label" : "Visite d’un salon" },
+                    { "op_id" : "98_04", "op_label" : "Visite d’un autre centre" },
+                    { "op_id" : "98_05", "op_label" : "RDV psychologue du travail" },
+                    { "op_id" : "98_06", "op_label" : "Rendez-vous POLE EMPLOI" }, 
+                    { "op_id" : "98_07", "op_label" : "Absence pour fêtes religieuses hors jours fériés légaux" },
+                    { "op_id" : "98_08", "op_label" : "Grève des transports" },
+                    { "op_id" : "98_09", "op_label" : "Intempéries" }, 
+                    { "op_id" : "98_10", "op_label" : "Rdv avec le conseiller militaire" },
+                    { "op_id" : "98_11", "op_label" : "Rdv avec le juge, Convocation au tribunal ou commissariat" },
+                    { "op_id" : "98_12", "op_label" : "Recherche de logement, Rdv organismes divers" },
+                    { "op_id" : "99_12", "op_label" : "totototo" }
+                ]
+            },
+            {
+                "id": "code99",
+                "name": "Code 99",
+                "title": "Absence non autorisée non rémunérée",
+                "options": [
+                    { "op_id" : "99_01", "op_label": "" }           
+                ]
+            },
+            {
+                "id": "code100",
+                "name": "Code 100",
+                "title": "Absence non autorisée non rémunérée",
+                "options": [
+                    { "op_id" : "100_01", "op_label": "" }           
+                ]
+            }
+        ]
+    }
+]
