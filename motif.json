@@ -62,7 +62,7 @@
                 { "op_id" : "98_03", "op_label" : "Visite d’un salon" },
                 { "op_id" : "98_04", "op_label" : "Visite d’un autre centre" },
                 { "op_id" : "98_05", "op_label" : "RDV psychologue du travail" },
-                { "op_id" : "98_06", "op_label" : "Rendez-vous POLE EMPLOI" }, 
+                { "op_id" : "98_06", "op_label" : "Rendez-vous France Travail" }, 
                 { "op_id" : "98_07", "op_label" : "Absence pour fêtes religieuses hors jours fériés légaux" },
                 { "op_id" : "98_08", "op_label" : "Grève des transports" },
                 { "op_id" : "98_09", "op_label" : "Intempéries" }, 
@@ -78,14 +78,6 @@
             "title": "Absence non autorisée non rémunérée",
             "options": [
                 { "op_id" : "99_01", "op_label": "" }           
-            ]
-        },
-        {
-            "id": "code100",
-            "name": "Code 100",
-            "title": "Absence non autorisée non rémunérée",
-            "options": [
-                { "op_id" : "100_01", "op_label": "" }           
             ]
         }
     ]
