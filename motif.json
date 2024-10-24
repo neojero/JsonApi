@@ -71,14 +71,6 @@
                 { "op_id" : "98_12", "op_label" : "Recherche de logement, Rdv organismes divers" },
                 { "op_id" : "99_12", "op_label" : "totototo" }
             ]
-        },
-        {
-            "id": "code99",
-            "name": "Code 99",
-            "title": "Absence non autorisée non rémunérée",
-            "options": [
-                { "op_id" : "99_01", "op_label": "" }           
-            ]
         }
     ]
 }
