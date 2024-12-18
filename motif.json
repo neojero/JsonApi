@@ -3,7 +3,7 @@
     "members" : [
         {
             "id": "code01",
-            "name": "Code 01", 
+            "name": "Code_01", 
             "title": "Retard absence non autorisé",
             "options": [
                 { "op_id": "01_01", "op_label": "Retard" }      
@@ -11,7 +11,7 @@
         },
         {
             "id": "code04",
-            "name": "Code 04",
+            "name": "Code_04",
             "title": "Grève AFPA",
             "options": [
                 { "op_id" : "04_01", "op_label": "Grève AFPA" }          
@@ -19,7 +19,7 @@
         },
         {
             "id": "code05",
-            "name": "Code 05",
+            "name": "Code_05",
             "title": "Maladie",
             "options": [
                 { "op_id": "05_01", "op_label": "Maladie" }      
@@ -27,7 +27,7 @@
         },
         {
             "id": "code06",
-            "name": "Code 06",
+            "name": "Code_06",
             "title": "Absence Légale",
             "options": [
                 { "op_id": "06_01", "op_label" : "Maissane ou adoption (3  jours)" },
@@ -41,7 +41,7 @@
         },
         {
             "id": "code20_41",
-            "name": "Code 20 – 21 – 30 – 31 - 40 - 41", 
+            "name": "Code_20_21_30_31_40_41", 
             "title": "Accident",
             "options": [
                 { "op_id" : "20_01", "op_label" : "Accident travail sans arrêt" },
@@ -54,7 +54,7 @@
         },
         {
             "id": "code98",
-            "name": "Code 98",
+            "name": "Code_98",
             "title": "Absence autorisée non rémunérée",
             "options": [ 
                 { "op_id" : "98_01", "op_label" : "Recherche PE" },
@@ -68,8 +68,7 @@
                 { "op_id" : "98_09", "op_label" : "Intempéries" }, 
                 { "op_id" : "98_10", "op_label" : "Rdv avec le conseiller militaire" },
                 { "op_id" : "98_11", "op_label" : "Rdv avec le juge, Convocation au tribunal ou commissariat" },
-                { "op_id" : "98_12", "op_label" : "Recherche de logement, Rdv organismes divers" },
-                { "op_id" : "99_12", "op_label" : "totototo" }
+                { "op_id" : "98_12", "op_label" : "Recherche de logement, Rdv organismes divers" }
             ]
         }
     ]
